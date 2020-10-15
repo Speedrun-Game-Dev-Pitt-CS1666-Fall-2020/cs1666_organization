@@ -43,9 +43,9 @@
 1. 10/15 - 10/20
 	* Manager: Spencer Miller
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Switch networking code from single-file structure to multi-file structure
+		1. Switch physics code from single-file structure to multi-file structure
+		1. Switch terrain code from single-file structure to multi-file structure
 		...
 1. 10/21 - 10/27
 	* Manager: Andrew Francioni
